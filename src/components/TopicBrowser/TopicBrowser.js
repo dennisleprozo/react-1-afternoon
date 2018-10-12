@@ -12,7 +12,6 @@ export default class TopicBrowser extends Component {
     render() {
         return (
             <div>
-
                 <EvenAndOdd />
                 <FilterObject />
                 <FilterString />
